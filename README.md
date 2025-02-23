@@ -123,3 +123,8 @@ Open http://localhost:3000 in your browser to view the project.
 Links
 Assets used in the project are here 
 https://drive.google.com/file/d/10bwdMeLAl7scTjrorqtG3v2Z6b4b7S-w/view
+
+Snippets
+constants.index.ts
+globals.css
+tailwind.config.ts
